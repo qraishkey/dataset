@@ -55,7 +55,6 @@ id,name,duration,energy,key,loudness,mode,speechiness,acousticness,instrumentaln
 6rZk29Yz8ObEwtJOIaACt5,DÁKITI Bad Bunny & Jhay Cortez,3.22,0.186,4,-6.421,0,0.0352,0.00462,0.403,0.154,0.211,109.201,0.373
 78Nyf6RlqBANlMhSnKyClT,Pretend CNCO,3.34,0.883,11,-3.862,0,0.103,0.284,0.0,0.14,0.834,101.983,0.68
 3CRDbSIZ4r5MsZ0YwxuEkn,Stressed Out twenty one pilots,3.37,0.637,4,-5.677,0,0.141,0.0462,2.29e-05,0.0602,0.648,169.977,0.734
-54bFM56PmE4YLRnqpW6Tha,Therefore I Am Billie Eilish,2.91,0.34,11,-7.773,0,0.0697,0.218,0.13,0.055,0.716,94.009,0.889
 0elmUoU7eMPwZX1Mw1MnQo,The Way You Look Tonight Frank Sinatra,3.37,0.24,5,-14.067,0,0.0363,0.798,0.0,0.142,0.587,132.234,0.622
 072Hl1zCG3UMxc7JBeQk7r,Happier Marshmello & Bastille,4.01,0.778,0,-4.723,0,0.0384,0.179,1.36e-06,0.227,0.493,89.116,0.57
 6cHOsanMHAZ8JXNtYipIcA,We're Good Dua Lipa,2.77,0.59,6,-4.326,1,0.0483,0.118,0.0,0.143,0.691,133.97,0.704
@@ -66,13 +65,10 @@ id,name,duration,energy,key,loudness,mode,speechiness,acousticness,instrumentaln
 2XU0oxnq2qxCpomAAuJY8K,Dance Monkey Tones And I,3.49,0.588,6,-6.4,0,0.0924,0.692,0.000104,0.149,0.513,98.027,0.824
 2VxeLyX666F8uXCJ0dZF8B,Shallow Lady Gaga & Bradley Cooper,3.6,0.385,7,-6.362,1,0.0308,0.371,0.0,0.231,0.323,95.799,0.572
 4cktbXiXOapiLBMprHFErI,Memories Maroon 5,3.16,0.327,11,-7.241,1,0.0557,0.841,0.0,0.0821,0.595,91.05,0.775
-6A53tLi9vpLhmgaEvzRyip,Heat Waves - Diplo Remix Glass Animals,2.36,0.565,11,-7.187,1,0.338,0.116,0.0,0.428,0.403,137.075,0.568
 5eFfsbjSouG8qOpg9ZqDl6,Downtown's Dead Sam Hunt,3.57,0.696,11,-6.006,1,0.0469,0.109,0.0,0.132,0.392,82.001,0.624
 1CS7Sd1u5tWkstBhpssyjP,Take Me To Church Hozier,4.03,0.664,4,-5.303,0,0.0464,0.634,0.0,0.116,0.437,128.945,0.566
 2V2lFQQQR3iqSUG5jwDQd9,Hold On Justin Bieber,2.85,0.634,1,-5.797,0,0.0413,0.0106,0.0,0.132,0.29,139.98,0.658
 21jGcNKet2qwijlDFuPiPb,Circles Post Malone,3.59,0.762,0,-3.497,1,0.0395,0.192,0.00244,0.0863,0.553,120.042,0.695
-1x6YtYuLHlvFaVOLsSLbWN,Talking to the Moon Acoustic Bruno Mars,3.63,0.333,1,-6.423,0,0.031,0.867,0.0,0.107,0.208,99.511,0.352
-6UelLqGlWMcVH1E5c4H7lY,Watermelon Sugar Harry Styles,2.9,0.816,0,-4.209,1,0.0465,0.122,0.0,0.335,0.557,95.39,0.548
 5enxwA8aAbwZbf5qCHORXi,All Too Well Taylor Swift,10.22,0.518,0,-8.771,1,0.0303,0.274,0.0,0.088,0.205,93.023,0.631
 0RtMRbaqeadQFvlYxcAczv,Somebody That I Used To Know Gotye feat. Kimbra,4.56,0.642,0,-6.19,1,0.0412,0.00028,0.0225,0.0341,0.376,128.992,0.646
 3eekarcy7kvN4yt5ZFzltW,HIGHEST IN THE ROOM Travis Scott,2.93,0.427,7,-8.764,0,0.0317,0.0546,5.83e-06,0.21,0.0605,76.469,0.598
@@ -80,18 +76,9 @@ id,name,duration,energy,key,loudness,mode,speechiness,acousticness,instrumentaln
 07g8LrnpOgV1BJg4ezJ5gf,Don't Stop Believin' Journey,4.27,0.157,5,-12.938,1,0.0436,0.581,0.393,0.109,0.666,117.128,0.663
 45S5WTQEGOB1VHr1Q4FuPl,Golden Harry Styles,3.48,0.838,4,-5.257,0,0.0557,0.21,0.000131,0.131,0.254,139.863,0.448
 0tBbt8CrmxbjRP0pueQkyU,Wolves Selena Gomez & Marshmello,3.3,0.804,11,-4.614,0,0.0448,0.124,0.0,0.204,0.306,124.987,0.724
-3DarAbFujv6eYNliUTyqtz,Kiss Me More (feat. SZA) Doja Cat,3.48,0.705,8,-3.463,1,0.0284,0.259,8.92e-05,0.12,0.781,110.97,0.764
-7cYNQkJoyHVhP8Drb2n6d5,Don't Start Now Dua Lipa,4.45,0.588,4,-12.406,0,0.0569,0.00168,0.00814,0.0809,0.673,114.988,0.726
 6ft4hAq6yde8jPZY2i5zLr,Paradise (feat. Dermot Kennedy) MEDUZA,2.8,0.595,8,-7.644,0,0.0401,0.0689,0.0,0.209,0.435,124.114,0.632
 3AzjcOeAmA57TIOr9zF1ZW,Physical Dua Lipa,3.23,0.844,0,-3.756,1,0.0457,0.0137,0.000658,0.102,0.746,146.967,0.647
 2H1047e0oMSj10dgp7p2VG,I Gotta Feeling Black Eyed Peas,4.82,0.766,0,-6.375,1,0.0265,0.0873,0.0,0.509,0.61,127.966,0.744
-2V2lFQQQR3iqSUG5jwDQd9,Hold On Justin Bieber,2.85,0.634,1,-5.797,0,0.0413,0.0106,0.0,0.132,0.29,139.98,0.658
 0pqnGHJpmpxLKifKRmU6WP,Believer Imagine Dragons,3.41,0.78,10,-4.374,0,0.128,0.0622,0.0,0.081,0.666,124.949,0.776
-5wANPM4fQCJwkGd4rN57mH,drivers license Olivia Rodrigo,4.03,0.431,10,-8.81,1,0.0578,0.768,1.42e-05,0.106,0.137,143.875,0.561
-4jPy3l0RUwlUI9T5XHBW2m,Mood (feat. iann dior) 24kGoldn,2.34,0.716,7,-3.671,0,0.0361,0.174,0.0,0.324,0.732,91.007,0.701
-2JPLbjOn0wPCngEot2STUS,Yonaguni Bad Bunny,3.45,0.648,1,-4.601,1,0.118,0.276,0.0,0.135,0.44,179.951,0.644
-7oD0hfEoijJtSXj7fblDor,Levitating - The Blessed Madonna Remix Dua Lipa,4.06,0.457,11,-11.026,1,0.0767,0.0919,0.85,0.0789,0.566,116.001,0.736
-4iJyoBOLtHqaGxP12qzhQI,Peaches (feat. Daniel Caesar & Giveon) Justin Bieber,3.3,0.696,0,-6.181,1,0.119,0.321,0.0,0.42,0.464,90.03,0.677
 1FSWSs9CL01RCYxXtm08Rf,Dance With Me Tonight Olly Murs,3.37,0.748,11,-5.922,0,0.0589,0.305,0.0,0.0811,0.964,163.984,0.672
-54bFM56PmE4YLRnqpW6Tha,Therefore I Am Billie Eilish,2.91,0.34,11,-7.773,0,0.0697,0.218,0.13,0.055,0.716,94.009,0.889
 5jsw9uXEGuKyJzs0boZ1bT,Stitches Shawn Mendes,3.45,0.754,1,-6.684,1,0.0615,0.0151,0.0,0.0486,0.755,149.789,0.752
