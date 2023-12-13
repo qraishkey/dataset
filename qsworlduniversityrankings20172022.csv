@@ -1,4 +1,4 @@
-university;year;rank_display;score;country;city;region;type;research_output
+university;year;rank_display;score;country;city;region;type;research
 Massachusetts Institute of Technology (MIT) ;2017;1;1000;United States;Cambridge;North America;Private;Very High
 Stanford University;2017;2;987;United States;Stanford;North America;Private;Very High
 Harvard University;2017;3;983;United States;Cambridge;North America;Private;Very High
